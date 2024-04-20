@@ -1,8 +1,8 @@
 ![Pepsi Google](https://github.com/sourceduty/Collaborative_Advertising/assets/123030236/e9a73c65-d641-4815-ab6d-cbdb78ec818e)
 
-Business collaboration using design in advertising.
-
 ### Collaborative Advertising Concept
+
+Business collaboration using design in advertising.
 
 Collaborative advertising is an innovative business concept where two or more companies join forces to market their brands or products together. This approach allows brands to leverage each other's strengths and customer bases, potentially reaching a wider audience and creating a more impactful marketing message. By combining resources, brands can execute more extensive and creative advertising campaigns that might have been too costly or complex to undertake individually. This strategy not only maximizes marketing budgets but also introduces each brand to the other's loyal customers, possibly leading to increased brand awareness and sales.
 
